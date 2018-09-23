@@ -5,6 +5,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/JaxsonWang/WP-Editor.md.svg)](https://github.com/JaxsonWang/WP-Editor.md/stargazers)
 [![GitHub license](https://img.shields.io/github/license/JaxsonWang/WP-Editor.md.svg)](https://github.com/JaxsonWang/WP-Editor.md/blob/V5.0/LICENSE)
 
+不再维护！
+
 ### 说明 Description
 
 WP Editor.MD是一个漂亮又实用的在线Markdown文档编辑器。
